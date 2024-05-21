@@ -1,0 +1,2 @@
+So we gonna make a Credit card loan approval model , that will loan to the customer based on many factors . the Data used for this is real world data , that is provided by cibil .
+Cibil is an Company or organisation , which has a big amount of consumer data and their past loan history and many more other factors that affect the loan approval request .
